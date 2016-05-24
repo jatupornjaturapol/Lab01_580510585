@@ -1,0 +1,23 @@
+body {
+    background-color: #ecf0f1;
+}
+.container {
+background-color: #ffffff;
+width: 80%;
+padding: 10px;
+margin: auto;
+}
+
+.header {
+color: #c0392b;
+border: 10px solid #2c3e50;
+padding: 10px;
+text-align: center;
+box-shadow: 10px 10px 5px grey;
+}
+.header2 {
+color: green;
+
+text-align: center;
+
+}
